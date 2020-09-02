@@ -5,7 +5,7 @@
 This is a very basic CLI tool to "uncompress" e-Szigno .es3 files and extract
 the encapsulated documents from it.
 
-See [https://e-szigno.hu|https://e-szigno.hu] for details.
+See https://e-szigno.hu for details.
 
 **NOTE**: This tool does NOT validate digital signatures and should not be
 considered secure or feature-complete in any way. It is just a quick solution
